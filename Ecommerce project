@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>A. Manvitha | Python Full Stack Developer</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+body{
+    background:#f4f6fb;
+    color:#333;
+    line-height:1.6;
+}
+
+header{
+    background:linear-gradient(135deg,#4a63e7,#6f86ff);
+    color:white;
+    text-align:center;
+    padding:60px 20px;
+}
+
+header h1{
+    font-size:40px;
+}
+
+header p{
+    margin-top:10px;
+    font-size:18px;
+}
+
+.container{
+    max-width:1000px;
+    margin:auto;
+    padding:40px 20px;
+}
+
+section{
+    margin-bottom:50px;
+}
+
+h2{
+    color:#4a63e7;
+    margin-bottom:20px;
+    border-left:5px solid #4a63e7;
+    padding-left:10px;
+}
+
+.card{
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    margin-bottom:20px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.08);
+}
+
+.skills span{
+    display:inline-block;
+    background:#4a63e7;
+    color:white;
+    padding:8px 12px;
+    border-radius:20px;
+    margin:5px;
+    font-size:14px;
+}
+
+footer{
+    text-align:center;
+    background:#4a63e7;
+    color:white;
+    padding:20px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>A. Manvitha</h1>
+    <p>Python Full Stack Developer | MCA Graduate | 9.17 CGPA</p>
+    <p>📍 Chennai, India | 📞 +91-9959437767 | ✉ alladimanvithalladi@gmail.com</p>
+</header>
+
+<div class="container">
+
+<section>
+<h2>Career Objective</h2>
+<div class="card">
+<p>
+Aiming to work as a Python Developer to apply my expertise in Python programming and contribute to developing high-quality applications while expanding my knowledge on modern technologies.
+</p>
+</div>
+</section>
+
+<section>
+<h2>Internship Experience</h2>
+<div class="card">
+<h3>Python Full Stack Developer – Besant Technologies</h3>
+<p>July 2024 – November 2024</p>
+</div>
+</section>
+
+<section>
+<h2>Technical Skills</h2>
+<div class="skills">
+<span>HTML</span>
+<span>CSS</span>
+<span>JavaScript</span>
+<span>React.js</span>
+<span>Python Full Stack</span>
+<span>Django</span>
+</div>
+</section>
+
+<section>
+<h2>Project Experience</h2>
+
+<div class="card">
+<h3>Student Management System using Python & Django</h3>
+<p>
+A beginner-friendly Django project designed to manage student data effectively. 
+Includes complete CRUD operations and demonstrates the full Django flow from models to templates.
+Helps in understanding project structure and building scalable web applications.
+</p>
+</div>
+
+<div class="card">
+<h3>AI-Driven Weather Forecasting</h3>
+<p>
+Developed a weather forecasting application using the Random Forest algorithm. 
+Collected and preprocessed weather data including temperature and humidity.
+Performed model training and evaluation to predict weather conditions accurately.
+</p>
+</div>
+
+</section>
+
+<section>
+<h2>Certifications & Courses</h2>
+<div class="card">
+<p>Python Full Stack Developer Course – Besant Technologies</p>
+</div>
+</section>
+
+<section>
+<h2>Education</h2>
+
+<div class="card">
+<p><strong>Master of Computer Applications</strong></p>
+<p>Mohan Babu University – 91% (2024)</p>
+</div>
+
+<div class="card">
+<p><strong>Bachelor of Computer Applications</strong></p>
+<p>G.S Arts and Science College – 90% (2022)</p>
+</div>
+
+<div class="card">
+<p><strong>Intermediate</strong></p>
+<p>S.T Mary’s College – 78% (2019)</p>
+</div>
+
+<div class="card">
+<p><strong>Secondary School</strong></p>
+<p>Sri Vivekananda E.M High School – 95% (2017)</p>
+</div>
+
+</section>
+
+</div>
+
+<footer>
+© 2026 A. Manvitha | Portfolio
+</footer>
+
+</body>
+</html>
